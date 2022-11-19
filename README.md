@@ -1,2 +1,2 @@
 # test-reports
-This repository provide examples of test reports and test cases
+This repository provide examples of bug reports and test cases
