@@ -1,2 +1,2 @@
 # tests
-This repository contains test cases, example of bug reports with steps of reproduction. These examples are intended to show how I approach writing test cases and reporting bugs that may be encountered in software.
+This repository contains examples of test cases and bug reports with steps of reproduction. They are intended to show my approach when writing test cases and reporting bugs that may be encountered in software.
